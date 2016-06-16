@@ -1,0 +1,134 @@
+body {
+	background-color: black;
+	text-align: center;
+	color: white;
+	font: 11px verdana, sans-serif;
+    height: 1000px;
+}
+
+
+.corpo{
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:-280px;
+    margin-left:-550px;
+    width:1100px;
+    height:800px;
+    background-image: url(../images/Parkour%2520Tour%2520Background.jpg);
+    border: 5px dashed white;
+}
+
+
+.testa{
+    position: absolute;
+    float: left;
+    padding: 5px;
+    height: 200px;
+    width: 400px;
+}
+
+
+.testataimg{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 350px;
+    height: 200px;
+    width: 330px;
+    float: left;
+}
+
+.testataimg2{
+    height: 200px;
+    width: 330px;
+    float: right;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+
+
+.descrizione{
+    margin-top: 20px;
+    width: 900px;
+    height: 500 px;
+    float: right;
+    text-align: right;
+    padding: 50px;
+    
+}
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 220px;
+    width: 200px;
+    background-color: skyblue;
+    position: absolute;
+    height: 15s0px;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+li a.active {
+    background-color: dodgerblue;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+
+
+h1{
+    color: black;
+    font-size: 40px;
+    font-family: "Helvetica",serif;
+    font-style:italic;
+}
+
+
+
+h1 em{
+    color: white;
+    
+}
+
+
+
+h2{
+    color:darkslategrey;
+    font-size: 20px;
+    font-family: verdana, sans-serif;
+    font-style: italic
+}
+
+
+
+h2 em{
+    color:black;
+}
+
+
+
+h3{
+    color: grey;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 17px;
+}
+
+

@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+	text-align: center;
+	color: white;
+	font: 11px verdana, sans-serif;
+    height: 1000px;
+}
+
+
+.corpo{
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:-280px;
+    margin-left:-550px;
+    width:1100px;
+    height:800px;
+    background-image: url(../images/Parkour%2520Tour%2520Background.jpg);
+    border: 5px dashed white;
+}
+
+p{
+    font-size: 60px;
+    color: white;
+    font-family: Arial,Helvetica,sans-serif;
+}
