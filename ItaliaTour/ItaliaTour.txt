@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/funzioniGenerali.cpp.o ./Debug/grafica.cpp.o ./Debug/letturaFile.cpp.o ./Debug/sqlite3.c.o   
